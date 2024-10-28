@@ -1,0 +1,114 @@
+{
+    "music": [
+      {
+        "title": "F&N",
+        "artist": "Future",
+        "genre": "rap",
+        "year": 2019,
+        "ryanStats": {
+          "rating": "4 stars",
+          "vibe": "getting ready"
+        },
+        "image_url": "https://i1.sndcdn.com/artworks-fiOir7HoOdGO-0-t1080x1080.jpg",
+        "song_url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf?si=689edb55571742bd"
+      },
+      {
+        "title": "Xenomorphgirl",
+        "artist": "Arca",
+        "genre": "experimental",
+        "year": 2021,
+        "ryanStats": {
+          "rating": "4 stars",
+          "vibe": "chilling"
+        },
+        "image_url": "https://static.wikia.nocookie.net/arca1000000/images/2/2a/Kickiiii.jpeg/revision/latest/thumbnail/width/360/height/450?cb=20211216011743",
+        "song_url": "https://open.spotify.com/track/7MOP5UC1eJaRFpZFFQ71dh?si=c8c7c3d4c41948ca"
+      },
+      {
+        "title": "Mouse",
+        "artist": "DMX Krew",
+        "genre": "electro",
+        "year": 1998,
+        "ryanStats": {
+          "rating": "4 stars",
+          "vibe": "commuting"
+        },
+        "image_url": "https://i.scdn.co/image/ab67616d00001e02907f281091c73b66d4906c0e",
+        "song_url": "https://open.spotify.com/track/0sijjhYQQnDWUkbKTl3SrV?si=b38623e7d2cd4260"
+      },
+      {
+        "title": "Boudoir",
+        "artist": "Titonton Duvante",
+        "genre": "techno",
+        "year": 1999,
+        "ryanStats": {
+          "rating": "5 stars",
+          "vibe": "dreamy techno dancing"
+        },
+        "image_url": "https://i.discogs.com/_m1ZxfRXL1P4p6WVT7BbCkfeWjGhJg63MQ-jEXmvkag/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MDA2LTE2NDY2NzEy/NjgtMjQ3Ni5qcGVn.jpeg",
+        "song_url": "https://open.spotify.com/track/1OfmyqhQFjnt8D9Uxh6Qvu?si=4e973612d55d41a0"
+      },
+      {
+        "title": "10000 Steps But Still Biting My Nails",
+        "artist": "Bjarki",
+        "genre": "experimental",
+        "year": 2019,
+        "ryanStats": {
+          "rating": "5 stars",
+          "vibe": "dreamy techno dancing"
+        },
+        "image_url": "https://f4.bcbits.com/img/a3137502771_10.jpg",
+        "song_url": "https://open.spotify.com/track/450UurhtzSWoX9PhnsRsyV?si=6c56e0b59fdd42c5"
+      },
+      {
+        "title": "home with you",
+        "artist": "Fka twigs",
+        "genre": "experimental",
+        "year": 2019,
+        "ryanStats": {
+          "rating": "5 stars",
+          "vibe": "relaxing"
+        },
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27386011cee37f1842374d971aa",
+        "song_url": "https://open.spotify.com/track/0heSL7aoecWPpGjUthUPJ6?si=251fa05faa034c94"
+      },
+      {
+        "title": "Pretty Canary",
+        "artist": "Tongue in the Mind",
+        "genre": "experimental",
+        "year": 2024,
+        "ryanStats": {
+          "rating": "5 stars",
+          "vibe": "showering"
+        },
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733400a0d715e49681ba93ecbf",
+        "song_url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf?si=689edb55571742bd"
+      },
+      {
+        "title": "F&N",
+        "artist": "Future",
+        "genre": "rap",
+        "year": 2019,
+        "ryanStats": {
+          "rating": "4 stars",
+          "vibe": "getting ready"
+        },
+        "image_url": "https://i1.sndcdn.com/artworks-fiOir7HoOdGO-0-t1080x1080.jpg",
+        "song_url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf?si=689edb55571742bd"
+      },
+      {
+        "title": "F&N",
+        "artist": "Future",
+        "genre": "rap",
+        "year": 2019,
+        "ryanStats": {
+          "rating": "4 stars",
+          "vibe": "getting ready"
+        },
+        "image_url": "https://i1.sndcdn.com/artworks-fiOir7HoOdGO-0-t1080x1080.jpg",
+        "song_url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf?si=689edb55571742bd"
+      }
+
+    ]
+  }
+  
