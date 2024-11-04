@@ -3,6 +3,9 @@ import fs from 'fs/promises'
 const app = express();
 const port = process.env.PORT || 3011
 
+app.use(cors({
+    origin: '*'
+}));
 
 //setting up a variable to readJSON data 
 
